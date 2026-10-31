@@ -1,0 +1,5 @@
+# Fichiers ignorés
+*.tmp
+*.o
+*.exe
+config.local

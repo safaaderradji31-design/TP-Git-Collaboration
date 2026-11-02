@@ -3,7 +3,7 @@
 void module1(); void module2(); void module3();
 
 int main() {
-    printf("Application de securite informatique\n");
+printf("Application developpee par B\n");
     int choix;
     printf("1. Verifier mot de passe\n2. Chiffrer un message\n3. Calculer une empreinte\nChoix : ");
     scanf("%d", &choix);
